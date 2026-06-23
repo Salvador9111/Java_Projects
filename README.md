@@ -1,4 +1,4 @@
-# Java Projects <img width="64" height="64" alt="java" src="https://github.com/user-attachments/assets/c5547ed0-24b2-4ccf-87e3-399d4f0c0273" /> 
+ <img width="64" height="64" alt="java" src="https://github.com/user-attachments/assets/c5547ed0-24b2-4ccf-87e3-399d4f0c0273" />  # Java Projects #
 
 
 
