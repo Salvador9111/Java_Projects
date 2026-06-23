@@ -12,3 +12,8 @@ This repository contains multiple Java-based projects demonstrating:
 - Data Structures
 - Console-Based Applications
 - Java Fundamentals and Best Practices
+
+# Technologies Used
+- JavaFX
+- IntelliJ IDEA
+- Git & GitHub
